@@ -1,0 +1,77 @@
+{
+  "mnemonics": {
+    "Classic": {
+      "Monthly fee": "£0",
+      "Arranged overdraft available": true,
+      "Up to 15% cashback on spending": true,
+      "Included in £175 switching offer": false,
+      "Interest on balances up to £5,000": false,
+      "Preferential travel money rates": false,
+      "Lifestyle benefits including Disney+": false,
+      "Mobile phone insurance": false,
+      "Family travel insurance": false,
+      "AA breakdown family cover": false
+    },
+    "Club Lloyds": {
+      "Monthly fee": "£3*",
+      "Arranged overdraft available": true,
+      "Up to 15% cashback on spending": true,
+      "Included in £175 switching offer": true,
+      "Interest on balances up to £5,000": true,
+      "Preferential travel money rates": true,
+      "Lifestyle benefits including Disney+": true,
+      "Mobile phone insurance": false,
+      "Family travel insurance": false,
+      "AA breakdown family cover": false
+    },
+    "Club Lloyds Silver": {
+      "Monthly fee": "£14.50*",
+      "Arranged overdraft available": true,
+      "Up to 15% cashback on spending": true,
+      "Included in £175 switching offer": true,
+      "Interest on balances up to £5,000": true,
+      "Preferential travel money rates": true,
+      "Lifestyle benefits including Disney+": true,
+      "Mobile phone insurance": true,
+      "Family travel insurance": "European, to age 65",
+      "AA breakdown family cover": "Roadside"
+    },
+    "Club Lloyds Platinum": {
+      "Monthly fee": "25.50*",
+      "Arranged overdraft available": true,
+      "Up to 15% cashback on spending": true,
+      "Included in £175 switching offer": true,
+      "Interest on balances up to £5,000": true,
+      "Preferential travel money rates": true,
+      "Lifestyle benefits including Disney+": true,
+      "Mobile phone insurance": true,
+      "Family travel insurance": "Worldwide, to age 80",
+      "AA breakdown family cover": "Roadside, Home, National recovery"
+    },
+    "Silver": {
+      "Monthly fee": "11.50*",
+      "Arranged overdraft available": true,
+      "Up to 15% cashback on spending": true,
+      "Included in £175 switching offer": true,
+      "Interest on balances up to £5,000": false,
+      "Preferential travel money rates": false,
+      "Lifestyle benefits including Disney+": false,
+      "Mobile phone insurance": true,
+      "Family travel insurance": "European, to age 65",
+      "AA breakdown family cover": "Roadside"
+    },
+    "Platinum": {
+      "Monthly fee": "22.50*",
+      "Arranged overdraft available": true,
+      "Up to 15% cashback on spending": true,
+      "Included in £175 switching offer": true,
+      "Interest on balances up to £5,000": false,
+      "Preferential travel money rates": false,
+      "Lifestyle benefits including Disney+": false,
+      "Mobile phone insurance": true,
+      "Family travel insurance": "Worldwide, to age 80",
+      "AA breakdown family cover": "Roadside, Home, National recovery"
+    }
+  },
+  "footer": "*£3 Club Lloyds fee is waived each month you pay in £2,000 or more."
+}
