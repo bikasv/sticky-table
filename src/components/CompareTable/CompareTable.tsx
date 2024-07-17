@@ -19,36 +19,37 @@ const TableWrapper = styled.div`
     overflow: auto;
     table-layout: fixed;
     width: 100%;
-  }
 
-  tr {
-    line-height: 1.5;
+    tr {
+      line-height: 1.5;
+      vertical-align: top;
 
-    th,
-    td {
-      border-left: 1px solid #f1f1f1;
-      padding: 0.375rem 0.125rem;
-      text-align: center;
-      width: 5.5rem;
+      th,
+      td {
+        border-left: 1px solid #f1f1f1;
+        padding: 0.375rem 0.125rem;
+        text-align: center;
+        width: 5.5rem;
 
-      &:first-of-type {
-        background-color: white;
-        border-left: none;
-        left: 0;
-        position: sticky;
-        text-align: left;
-        width: 8rem;
-        z-index: 2;
+        &:first-of-type {
+          background-color: white;
+          border-left: none;
+          left: 0;
+          position: sticky;
+          text-align: left;
+          width: 8rem;
+          z-index: 2;
+        }
       }
-    }
 
-    th {
-      border-bottom: 1px solid #f1f1f1;
-      text-decoration: underline;
+      th {
+        border-bottom: 1px solid #f1f1f1;
+        text-decoration: underline;
 
-      &:first-of-type {
-        font-weight: bold;
-        text-decoration: none;
+        &:first-of-type {
+          font-weight: bold;
+          text-decoration: none;
+        }
       }
     }
   }
